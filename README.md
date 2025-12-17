@@ -13,7 +13,7 @@ This project is a functional, command-line utility built entirely in Python desi
     * Display a summary of all recorded activities and their total durations.
 * **Data Processing:** Utilized Python to clean, aggregate, and calculate key time metrics for summary reporting.
 
-## 🛠️ Tools and Languages Used:
+## Tools and Languages Used:
 * Python (Core language and scripting)
 * Command Line Interface (CLI)
 
